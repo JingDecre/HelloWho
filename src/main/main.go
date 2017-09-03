@@ -1,6 +1,7 @@
 package main
 
 func main() {
-	SayHello()
-	MultipleVariables()
+	//SayHello()
+	//MultipleVariables()
+	ConstVariables()
 }
